@@ -1,1 +1,1 @@
-# Angular2 Tour of Heroes example
+# Angular2 Tour of Heroes Example
