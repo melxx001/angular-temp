@@ -1,1 +1,1 @@
-# angular-temp
+# Angular2 Tour of Heroes example
